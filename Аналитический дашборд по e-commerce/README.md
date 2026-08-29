@@ -1,6 +1,6 @@
 # Аналитический дашборд по e-commerce
 
-Ссылки на дашборд:
+Ссылки на вкладки дашборда: [Основные метрики](https://github.com/daniel-melnikov/my-projects/blob/main/Аналитический%20дашборд%20по%20e-commerce/Основные%20метрики.png), [Продажи](https://github.com/daniel-melnikov/my-projects/blob/main/Аналитический%20дашборд%20по%20e-commerce/Продажи.png), [Аналитика пользователей](https://github.com/daniel-melnikov/my-projects/blob/main/Аналитический%20дашборд%20по%20e-commerce/Аналитика%20пользователей.png)
 
 ## Описание проекта:
 
